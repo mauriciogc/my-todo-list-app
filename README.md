@@ -1,7 +1,7 @@
-![Example](https://codesandbox.io/s/github/mauriciogc/react-app-todo-list/blob/master/img/example.png)
-
+![Example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/example.png)
+           
 ### gif
-![Example](https://codesandbox.io/s/github/mauriciogc/react-app-todo-list/blob/master/img/animation.gig)
+![Example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/animation.gif)
 
 
 ## You can see the tutorial here
