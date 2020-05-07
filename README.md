@@ -1,7 +1,6 @@
 ![Example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/example.png)
            
-### gif
-![Example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/animation.gif)
+[See GIF example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/animation.gif)
 
 
 ## You can see the tutorial here
