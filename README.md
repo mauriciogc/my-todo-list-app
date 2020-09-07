@@ -4,7 +4,7 @@
 
 
 ## You can see the tutorial here
---- Coming soon ---
+[See tutorial (Spanish)](https://medium.com/@mauriciogc/react-creando-una-app-to-do-list-con-create-react-app-y-el-hook-usestate-6ae378569705)
 
 ## You can see a live demo here
 * [React App ToDo List](https://codesandbox.io/s/github/mauriciogc/react-app-todo-list)
